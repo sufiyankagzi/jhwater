@@ -25,7 +25,7 @@ const Header = () => {
               <a href="https://www.facebook.com/" target="_blank"  rel="noopener noreferrer"><FaFacebookF className='head-social-icon-facebook text-white fs-4'/></a>
               <a href="https://www.instagram.com/" target="_blank"  rel="noopener noreferrer"><FaInstagram className='head-social-icon-instagram text-white fs-4' /></a>
               <a href="https://www.youtube.com/" target="_blank"  rel="noopener noreferrer"><FaYoutube className='head-social-icon-youtube text-white' /></a>
-              <a href="https://wa.me/918168356573?text=To,%0a*Nimraj%20Industries*%0a%0aHi%2C%20I%20want%20to%20know%20more%20about%20your%20products%0aPlease%20share%20your%20catalogue" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "inherit" }}><FaWhatsapp className='head-social-icon-whatsapp text-white' /></a> 
+              <a href="https://wa.me/919898031884?text=To,%0a*J%20H%20Water%20Technology*%0a%0aHi%2C%20I%20want%20to%20know%20more%20about%20your%20products%0aPlease%20share%20your%20catalogue" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", color: "inherit" }}><FaWhatsapp className='head-social-icon-whatsapp text-white' /></a> 
           </Col>
         </Row>
       </Container>
