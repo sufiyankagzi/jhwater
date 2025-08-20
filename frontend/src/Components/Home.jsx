@@ -3,7 +3,7 @@ import MainPageSlider from '../Components/MainPageSlider'
 const Home = () => {
   return (
     <>
-      <MainPageSlider />  
+      {/* <MainPageSlider />   */}
     </>
   )
 }
